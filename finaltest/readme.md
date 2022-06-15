@@ -8,5 +8,6 @@ thread2.c
 thread3.c
 mutex.c
 semaphore.c
+chatserv.c
 
 입니다. 감사합니다.
